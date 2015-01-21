@@ -1,0 +1,38 @@
+
+
+@font-face {
+  font-family: 'NationalHBR-Regular';
+  src: url('fonts/NationalHBR-Regular.woff') format('woff'), 
+       url('fonts/NationalHBR-Regular.otf') format('opentype'); 
+}
+
+@font-face {
+  font-family: 'NationalHBR-Semibold';
+  src: url('fonts/NationalHBR-Semibold.woff') format('woff'), 
+       url('fonts/NationalHBR-Semibold.otf') format('opentype'); 
+}
+
+@font-face {
+  font-family: 'NationalHBR-Medium';
+  src: url('fonts/NationalHBR-Medium.woff') format('woff'), 
+       url('fonts/NationalHBR-Medium.otf') format('opentype'); 
+}
+
+@font-face {
+  font-family: 'NationalHBR-Light';
+  src: url('fonts/NationalHBR-Light.woff') format('woff'), 
+       url('fonts/NationalHBR-Light.otf') format('opentype'); 
+}
+
+@font-face {
+  font-family: 'NationalHBR-Extrabold';
+  src: url('fonts/NationalHBR-Extrabold.woff') format('woff'), 
+       url('fonts/NationalHBR-Extrabold.otf') format('opentype'); 
+}
+
+@font-face {
+  font-family: 'NationalHBR-Black';
+  src: url('fonts/NationalHBR-Black.woff') format('woff'), 
+       url('fonts/NationalHBR-Black.otf') format('opentype'); 
+}
+
